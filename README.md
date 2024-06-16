@@ -33,6 +33,8 @@ Additionally, global implementations are maintained separately in the `utils` di
 - `lib/main.dart`: This is the entry point of the application.
 - `test/controller_binding_test.dart`: This file contains unit tests for
   the `TransactionController`.
+- `test/graph_scroll_test.dart`: This file contains unit tests for
+  the `Graph Horizontal Scroll`.
 - `analysis_options.yaml`: This file configures the Dart analyzer, which statically analyzes Dart
   code to check for errors, warnings, and lints.
 
